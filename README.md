@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ZysticV2
 - 👀 I’m interested in ... Coding
-- 🌱 I’m currently learning ... LuA
+- 🌱 I’m currently learning ... Python
 - 💞️ I’m looking to collaborate on ... Nothing as I have no knowledge
 - 📫 How to reach me ...
 
